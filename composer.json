@@ -1,0 +1,19 @@
+{
+    "name": "priskz/laravel-utilities",
+    "description": "A tool box of Laravel specific utilties.",
+    "type": "library",
+    "authors": [
+        {
+          "name": "Zachary Prisk",
+          "email": "zachary.prisk@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Priskz\\LaravelUtilities\\": "src/Priskz/LaravelUtilities"
+        }
+    }
+}
