@@ -13,8 +13,6 @@ Alert - An easy way to display and work with Laravel flash data in your HTML.
 Add the following to your "require" schema:
 
 ```
-#!json
-
 "require": {
      "priskz/laravel-utilities": "~0.0.1"
 }
