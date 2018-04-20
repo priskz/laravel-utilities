@@ -2,6 +2,7 @@
     "name": "priskz/laravel-utilities",
     "description": "A tool box of Laravel specific utilties.",
     "type": "library",
+    "license": "MIT",
     "authors": [
         {
           "name": "Zachary Prisk",
