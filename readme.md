@@ -18,6 +18,6 @@ Add the following to your "require" schema:
 }
 ```
 
-Run ```composer update```
+Run ```composer install```
 
 Add ```'LaravelUtilities\Alert\ServiceProvider'``` to the ```'providers'``` in ```/app/laravel/config/app.php``` to enable the newly added service.
